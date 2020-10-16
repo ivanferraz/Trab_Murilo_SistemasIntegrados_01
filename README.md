@@ -16,30 +16,30 @@ Descrição das funções do sistema:
 
 1 - Mostrar todas as cartas
 
-DESCRIÇÃO
+    Exibe uma lista com todas as cartas cadastradas no sistema.
 
 
 2 - Buscar uma carta
 
-DESCRIÇÃO
-
+    Permite a busca de uma carta a partir de um número de ID.
+    
 
 3 - Cadastrar uma carta
 
-DESCRIÇÃO
+    Função para cadastrar uma nova carta na base de dados.
 
 
 4 - Editar uma carta
 
-DESCRIÇÃO
+    Possibilita a edição de determinada carta a partir de seu ID.
 
 
 5 - Excluir uma carta
 
-DESCRIÇÃO
+    Função utilizada para remover uma carta da base de dados (pelo ID).
 
 
 0 - Sair
 
-DESCRIÇÃO
+    Opção para encerrar o programa.
 
